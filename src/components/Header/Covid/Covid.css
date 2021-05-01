@@ -1,0 +1,17 @@
+
+.covid19{
+   float: left;
+    padding: 10px;
+    margin-top: 20px;
+
+}
+
+/* Responsive columns */
+@media screen and (max-width: 600px) {
+    .covid19 {
+      width: 100%;
+      display: block;
+      margin-bottom: 10px;
+    }
+  }
+  
